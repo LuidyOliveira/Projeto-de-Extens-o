@@ -12,4 +12,4 @@ Aplicativo para a Barbearia Universe
 https://github.com/user-attachments/assets/5bb06f7c-6971-481c-91a0-a468ea0e2287
 
 
-* Demonstração de como o aplicativo funciona
+Demonstração de como o aplicativo funciona
