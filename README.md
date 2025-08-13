@@ -4,4 +4,4 @@ Trabalho de Extensão do Curso de Ciência da Computação:
 
 Aplicativo para a Barbearia Universe
 
-Link do Aplicativo: 
+## Veja o aplicativo em ação
