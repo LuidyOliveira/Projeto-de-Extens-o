@@ -24,13 +24,6 @@
       "softwareKeyboardLayoutMode": "pan",
       "edgeToEdgeEnabled": true
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "plugins": [
-      "expo-router",
-      "expo-sqlite",
-      "expo-font"
-    ]
+    "plugins": ["expo-router", "expo-sqlite", "expo-font"]
   }
 }
